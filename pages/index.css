@@ -223,6 +223,7 @@
   margin-right: auto;
   margin-left: auto;
   padding-top: 100px;
+  margin-top: 0;
 }
 
 .reservation__form {
